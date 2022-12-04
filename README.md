@@ -8,12 +8,12 @@ Este dataset contiene estadísticas sobre pasajeros volando por distintas zonas 
 
 Variables importantes en el DS
 
-Aerolínea
-Número de pasajeros
-Región
-Tipo de actividad
-Año
-Mes
+- Aerolínea
+- Número de pasajeros
+- Región
+- Tipo de actividad
+- Año
+- Mes
 
 # Dataset Buenos_Aires_AIRBNB.csv
 Este dataset contiene estadísticas de alojamientos de airbnb en Buenos Aires
