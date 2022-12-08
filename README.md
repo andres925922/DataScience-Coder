@@ -1,9 +1,9 @@
-## Curso de Data Science de CoderHouse
+# Curso de Data Science de CoderHouse
 
 1) Los datasets pueden encontrarse en la carpeta Datasets
 2) El notebook se encuentra en la carpeta Notebook
 
-# Daset Air_Traffic_Passenger_Statistics.csv
+## Daset Air_Traffic_Passenger_Statistics.csv
 Este dataset contiene estadísticas sobre pasajeros volando por distintas zonas del mundo con distintas aerolineas. Este dataset permite ver el comportamiento de las arolíneas
 
 Variables importantes en el DS
@@ -15,7 +15,7 @@ Variables importantes en el DS
 - Año
 - Mes
 
-# Dataset Buenos_Aires_AIRBNB.csv
+## Dataset Buenos_Aires_AIRBNB.csv
 Este dataset contiene estadísticas de alojamientos de airbnb en Buenos Aires
 
 Variables importantes de este DS
@@ -29,7 +29,7 @@ Variables importantes de este DS
 - Vecindario
 - Nombre del host.
 
-# Dataset DelayedFlights.csv
+## Dataset DelayedFlights.csv
 Dataset que lista vuelos retrasados a lo largo del mundo desde el 2008
 
 Variables importantes del DS
